@@ -1,3 +1,14 @@
 p {
     color: blue;
+    text-align: left;
+}
+li {
+    color:blue;
+    text-align: left;
+}
+h1 {
+    color: chocolate;
+    font-size: 50px;
+    font: arial;
+    text-align: center;
 }
